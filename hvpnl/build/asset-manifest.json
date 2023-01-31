@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/abin-jose-3561/hvpnl-dash2/static/css/main.1b8f7407.css",
+    "main.js": "/abin-jose-3561/hvpnl-dash2/static/js/main.97392c23.js",
+    "index.html": "/abin-jose-3561/hvpnl-dash2/index.html",
+    "main.1b8f7407.css.map": "/abin-jose-3561/hvpnl-dash2/static/css/main.1b8f7407.css.map",
+    "main.97392c23.js.map": "/abin-jose-3561/hvpnl-dash2/static/js/main.97392c23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b8f7407.css",
+    "static/js/main.97392c23.js"
+  ]
+}
